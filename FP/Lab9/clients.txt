@@ -1,0 +1,10 @@
+1,Ana
+4,Andrei
+5,Mihai
+6,George
+3,Alex
+7,Ada
+8,Diana
+9,Denisa
+10,Marian
+20,Bianca
