@@ -1,0 +1,5 @@
+Audi|model|2010|blue
+Audi|model2|2009|pink
+Audi|model3|2020|black
+Ford|model1|2005|blue
+Mercedes|model2|2009|red

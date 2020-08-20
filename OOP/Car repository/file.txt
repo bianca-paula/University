@@ -1,0 +1,6 @@
+Ford|ALS|2003|pink
+Mercedes-Benz|SUV|2013|blue
+Ford|Fiesta|2009|red
+Audi|Model3|2007|red
+Audi|Model|2019|pink
+Audi|Model2|2020|black
